@@ -13,7 +13,7 @@ I have a hybrid background combining:
 
 For the past 20 years, I’ve been working in international wealth planning within a major European private bank, dealing with complex legal and tax situations.
 
-Since 2024, I’ve been pursuing a **Data Analyst training program with OpenClassrooms**, with a clear goal:  
+Since 2024, I’ve been pursuing a **Data Analyst training program with [OpenClassrooms](https://openclassrooms.com/fr/paths/804-data-analyst)**, with a clear goal:  
 > **Turning data into a driver for AI and better decision-making***
 
 ## 💡 What sets me apart
