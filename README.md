@@ -42,6 +42,7 @@ Since 2024, I’ve been pursuing a **Data Analyst training program with [OpenCla
 | **Machine Learning**           | ![Static Badge](https://img.shields.io/badge/scikit-learn-%23F7931E?style=flat&logo=scikitlearn) ![Static Badge](https://img.shields.io/badge/SciPy-%238CAAE6?style=flat&logo=scipy&labelColor=grey) |
 | **IDE**                        | ![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code-%2322a8f1?style=flat) ![Static Badge](https://img.shields.io/badge/Jupyter-%23F37626?style=flat&logo=jupyter&labelColor=grey) |
 | **Version Control** | ![Static Badge](https://img.shields.io/badge/GitHub-%23181717?style=flat&logo=github) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)                    |
+| Productivity | ![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white) |
 | **Automation / AI** | ![Make](https://img.shields.io/badge/Make-6D00CC?style=flat&logo=make&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white) ![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white) ![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat&logo=openai&logoColor=white) |
 
 
